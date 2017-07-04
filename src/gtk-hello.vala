@@ -3,6 +3,7 @@
 marcelognunez@gmail.com
 GNU v3
 compile with: valac --pkg gtk+-3.0 gtk-hello.vala
+for git: git help tutorial
 
 */
 
