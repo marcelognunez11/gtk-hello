@@ -1,2 +1,2 @@
-# valatutorial
-A Repository for Vala Tutorial examples.
+# gtk-hello
+A Repository for Learn Git use.
